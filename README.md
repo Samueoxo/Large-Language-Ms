@@ -6,11 +6,11 @@ This project is based on the GPT-3 architecture and is trained on a corpus of te
 - Transformer library
 # Installation
 The easiest way to get it is by using pip.
--pip install virtualenvwrapper
-In summary, you should have this packages installed in your system
 - Python
 - pip
+- pip install virtualenvwrapper
 - virtualenvwrapper (virtualenv or any other package manager you prefer)
+  In summary, you should have these packages installed in your system.
 # Training
 A Corpus of text data was collected to trained this Model. The training was monitor and hyperparameters were adjusted 
 
